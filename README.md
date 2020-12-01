@@ -1,11 +1,12 @@
 ### Hi, I'm Sheelu Krishnatrayi.. 👋
+<img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="Coder" />
 
-  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif"  widthalt="Coder" />
 - 🌱 I’m currently learning *MongoDB.*
 - 👯 I’m looking to collaborate on *React.* 
 - 📫 How to reach me *sheelukumari27@gmail.com*
 - 🥅 Goals: Aspire to become *Full Stack Developer* & Contribute more to *Open Source projects.*
 - ⚡ Fun fact: I love Chess.
+ 
 
 
 ### Languages and Tools:
